@@ -53,3 +53,5 @@ e
 5src/main/java/com/lyc/controller/HelloController.java,9\c\9c76f57d80966c4176ec6d4d7cace8abf2d8ac4b
 Z
 *src/main/java/com/SecurityApplication.java,b\7\b7830c30fb6961236be971924695c0c5fd2190e3
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
